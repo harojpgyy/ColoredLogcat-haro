@@ -1,3 +1,6 @@
+## The place of modification：
+• More recognizable colors
+• Command simplification
 ## What's ColoredLogcat
 ColoredLogcat takes the adb logcat output and improves it's readability.
 
